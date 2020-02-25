@@ -1,4 +1,4 @@
-# Studying Pandas
+# Pandas
 **Pandas** is a Python library for data analysis. It offers a number of data exploration, cleaning and transformation operations that are critical in working with data in Python.
 
 pandas build upon numpy and scipy providing easy-to-use data structures and data manipulation functions with integrated indexing.
@@ -12,7 +12,24 @@ The main data structures pandas provides are Series and DataFrames. After a brie
 * Working with timestamps and time-series data
 
 
-Additional Resources:
+**Additional Resources:**
 pandas Documentation: http://pandas.pydata.org/pandas-docs/stable/
 Python for Data Analysis by Wes McKinney
 Python Data Science Handbook by Jake VanderPlas
+
+
+# Case Study: Movie Data Analysis
+
+
+This notebook uses a dataset from the MovieLens website. We will describe the dataset further as we explore with it using **pandas**.
+
+## Download the Dataset
+Please note that you will need to download the dataset. The folder turned out to be too large to fit on this platform due to size constraints.
+
+Here are the links to the data source and location:
+
+Data Source: MovieLens web site (filename: ml-25m.zip)
+Location: https://grouplens.org/datasets/movielens/
+
+Should be the first zip file on the page
+Once the download completes, please make sure the data files are in a directory called movielens in your Week-4-pandas folder.
