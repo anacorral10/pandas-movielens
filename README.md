@@ -33,4 +33,4 @@ Here are the links to the data source and location:
 * *Location:* https://grouplens.org/datasets/movielens/
 
 Should be the first zip file on the page
-Once the download completes, please make sure the data files are in a directory called movielens in your Week-4-pandas folder.
+Once the download completes, please make sure the data files are in the directory of the jupyter notebook folder.
