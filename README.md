@@ -23,7 +23,7 @@ Python Data Science Handbook by Jake VanderPlas
 # Case Study: Movie Data Analysis
 
 
-This notebook uses a dataset from the MovieLens website. We will describe the dataset further as we explore with it using **pandas**.
+This Jupyter notebook uses a dataset from the MovieLens website. We will describe the dataset further as we explore with it using **pandas**.
 
 ## Download the Dataset
 Please note that you will need to download the dataset. The folder turned out to be too large to fit on this platform due to size constraints.
