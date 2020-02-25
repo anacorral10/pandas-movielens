@@ -27,9 +27,8 @@ This notebook uses a dataset from the MovieLens website. We will describe the da
 Please note that you will need to download the dataset. The folder turned out to be too large to fit on this platform due to size constraints.
 
 Here are the links to the data source and location:
-
-Data Source: MovieLens web site (filename: ml-25m.zip)
-Location: https://grouplens.org/datasets/movielens/
+* Data Source: MovieLens web site (filename: ml-25m.zip)
+* Location: https://grouplens.org/datasets/movielens/
 
 Should be the first zip file on the page
 Once the download completes, please make sure the data files are in a directory called movielens in your Week-4-pandas folder.
