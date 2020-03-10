@@ -29,6 +29,7 @@ The main data structures pandas provides are Series and DataFrames. After a brie
 
 
 **Additional Resources:**
+
 pandas Documentation: http://pandas.pydata.org/pandas-docs/stable/
 
 Python for Data Analysis by Wes McKinney
